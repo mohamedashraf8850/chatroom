@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168111411967",
+    "firebase_url": "https://chatroom-caf91.firebaseio.com",
+    "project_id": "chatroom-caf91",
+    "storage_bucket": "chatroom-caf91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168111411967:android:688911e8f11a84a12332ca",
+        "android_client_info": {
+          "package_name": "com.mohamedashrafelshikh.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168111411967-nkvun345svhkuop3mb82am3dljbtf4st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cQ__cvBe8WEte_sFHBkPsaign3rppqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168111411967-nkvun345svhkuop3mb82am3dljbtf4st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
